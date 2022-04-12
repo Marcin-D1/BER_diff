@@ -1,0 +1,24 @@
+Pliki: ./0x55_100_1 ./0x55_100_2
+Timestamp: 1649770085
+Czas trwania: 29 microseconds
+Ilość porównanych bajtow: 100
+BER 0
+
+
+
+Pliki: ./0x55_100_1 ./0x55_100_10dif
+Timestamp: 1649770107
+Czas trwania: 36 microseconds
+Ilość porównanych bajtow: 100
+BER 10
+
+
+
+Pliki: ./0x50_400M ./0x55_400M
+Timestamp: 1649770159
+Czas trwania: 4775143 microseconds
+Ilość porównanych bajtow: 400000000
+BER 800000000
+
+
+
